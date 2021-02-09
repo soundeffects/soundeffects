@@ -7,13 +7,7 @@
 					0% {
 						color: #fc5c7d;
 					}
-					25% {
-						color: #6a82fb;
-					}
 					50% {
-						color: #05dfd7;
-					}
-					75% {
 						color: #6a82fb;
 					}
 					100% {
@@ -29,7 +23,7 @@
 				  font-size: 4em;
 				  font-weight: 100;
 				  letter-spacing: 0.5em;
-					animation: gradientBackground 10s ease infinite;
+					animation: gradientBackground 15s ease infinite;
 				}
 			</style>
 			<h1>soundeffects</h1>
