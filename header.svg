@@ -23,11 +23,15 @@
 					font-size: 4em;
 					font-weight: 100;
 					letter-spacing: 0.5em;
-					text-align: center;
+					position: absolute;
+					top: auto;
+					bottom: auto;
+					right: auto;
+					left: auto;
 					animation: gradientBackground 15s ease infinite;
 				}
 			</style>
-			<h1> soundeffects</h1>
+			<h1>soundeffects</h1>
 		</div>
 	</foreignObject>
 </svg>
