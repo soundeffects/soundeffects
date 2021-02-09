@@ -22,6 +22,8 @@
 					font-family: "Montserrat", sans-serif;
 					font-size: 4em;
 					font-weight: 100;
+					letter-spacing: 0.5em;
+					margin-right: -0.5em;
 					animation: gradientBackground 15s ease infinite;
 				}
 			</style>
