@@ -19,10 +19,11 @@
 				also setting content to the appropriate
 				text set in the data-text attribute. */
 				h1 {
-				  font-family: "Montserrat", sans-serif;
-				  font-size: 4em;
-				  font-weight: 100;
-				  letter-spacing: 0.5em;
+					font-family: "Montserrat", sans-serif;
+					font-size: 4em;
+					font-weight: 100;
+					letter-spacing: 0.5em;
+					text-align: center;
 					animation: gradientBackground 15s ease infinite;
 				}
 			</style>
