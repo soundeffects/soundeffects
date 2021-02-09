@@ -5,13 +5,13 @@
 				@import url("https://fonts.googleapis.com/css?family=Montserrat:100");
 				@keyframes gradientBackground {
 					0% {
-						background-position: 0% 50%;
+						color: #fc5c7d;
 					}
 					50% {
-						background-position: 100% 50%;
+						color: #6a82fb;
 					}
 					100% {
-						background-position: 0% 50%;
+						color: #05dfd7;
 					}
 				}
 				/* Our mixin positions a copy of our text
@@ -19,7 +19,6 @@
 				also setting content to the appropriate
 				text set in the data-text attribute. */
 				h1 {
-					color: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 				  font-family: "Montserrat", sans-serif;
 				  font-size: 4em;
 				  font-weight: 100;
