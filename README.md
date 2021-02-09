@@ -1,4 +1,4 @@
-<div class="center">
+<div align="center">
   <img src="header.svg" width="800" height="100" alt="soundeffects">
 </div>
 
