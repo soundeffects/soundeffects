@@ -1,4 +1,4 @@
-<img src="header.svg" width="400" height="100" alt="soundeffects">
+<img src="header.svg" width="400" height="50" alt="soundeffects">
 
 ![](https://komarev.com/ghpvc/?username=soundeffects&color=ff69b4)
 
