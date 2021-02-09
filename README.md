@@ -14,6 +14,4 @@
 <br>
 <br>
 
-<div align="center">
 Welcome to my github page! I'm an aspiring software engineer, currently studying at the University of Utah for my Bachelor's in Computer Science. I'm interested in making games, contributing to open source projects, and learning more about both theoretical and applied computing topics.
-</div>
