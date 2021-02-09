@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=soundeffects&color=ff69b4)
 
 <div class="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soundeffects&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soundeffects&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soundeffects&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soundeffects&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
