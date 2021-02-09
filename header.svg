@@ -213,7 +213,6 @@
 					    transform: skew(-1deg);
 					  }
 					}
-				}
 				
 				/* Our mixin positions a copy of our text
 				directly on our existing text, while
@@ -256,8 +255,6 @@
 				  text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
 				  animation: glitch-anim2 1s infinite linear alternate-reverse;
 				}
-
-
 			</style>
 			<h1 class="glitch">soundeffects</h1>
 		</div>
