@@ -23,8 +23,9 @@
 					font-size: 4em;
 					font-weight: 100;
 					letter-spacing: 0.5em;
-					max-width: 800px;
-					margin: auto;
+					width: 100%;
+					height: 100%;
+					text-align: center;
 					animation: gradientBackground 15s ease infinite;
 				}
 			</style>
