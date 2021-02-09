@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=soundeffects&color=ff69b4)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soundeffects&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soundeffects&show_icons=true&theme=radical&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundeffects&layout=compact&theme=radical&count_private=true" />
 </a>
 
