@@ -7,11 +7,17 @@
 					0% {
 						color: #fc5c7d;
 					}
+					25% {
+						color: #6a82fb;
+					}
 					50% {
+						color: #05dfd7;
+					}
+					75% {
 						color: #6a82fb;
 					}
 					100% {
-						color: #05dfd7;
+						color: #fc5c7d;
 					}
 				}
 				/* Our mixin positions a copy of our text
