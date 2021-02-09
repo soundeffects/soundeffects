@@ -2,6 +2,9 @@
   <img src="header.svg" width="800" height="400" alt="Click to see the source">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soundeffects&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soundeffects&show_icons=true&theme=radical)
 
 <!--
 **soundeffects/soundeffects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
