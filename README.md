@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="header.svg" width="800" height="100" alt="soundeffects">
-</div>
+<img src="header.svg" width="800" height="100" alt="soundeffects">
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" class="stats">
