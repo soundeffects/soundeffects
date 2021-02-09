@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="header.svg" width="800" height="400" alt="Click to see the source">
+</div>
+
+
 <!--
 **soundeffects/soundeffects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
