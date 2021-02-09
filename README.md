@@ -1,6 +1,6 @@
-<div align="center">
+<a href="https://soundeffects.github.io/" align="center">
   <img src="header.svg" width="800" height="100" alt="soundeffects">
-</div>
+</a>
 
 <br>
 <br>
